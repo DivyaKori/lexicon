@@ -25,7 +25,7 @@ Lexicon is a modern and interactive web application designed to help users impro
 
 ## 🚀 Live Demo
 
-👉 (Will be added after deployment)
+👉 https://divyakori.github.io/lexicon/
 
 ---
 
